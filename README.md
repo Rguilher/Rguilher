@@ -6,7 +6,7 @@
   [![Pirntf](https://github.com/Rguilher/Icon42/blob/main/42_badges/ft_printfe.png)](https://github.com/Rguilher/Printf)
   [![Minishell](https://github.com/Rguilher/Rguilher/blob/main/42_badges/minishelle.png)](https://github.com/Rguilher/Minishell)
   </br>
-  [![Api-Salon](https://github.com/Rguilher/Rguilher/blob/main/42_badges/api-java-springboot-salon5.png)](https://github.com/Rguilher/backend/tree/develop)
+  [![Api-Salon](https://github.com/Rguilher/Rguilher/blob/main/42_badges/restful-api-java-springboot-final.png)](https://github.com/Rguilher/backend/tree/develop)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rguilher&layout=compact)](https://github.com/Rguilher)
   
