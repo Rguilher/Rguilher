@@ -34,6 +34,7 @@ I'm currently working on my Rest API [backend](https://github.com/Rguilher/backe
 
 
 ## Java
-
-[![Api-Salon](https://github.com/Rguilher/Rguilher/blob/main/42_badges/resful-api-springboot-java-final2.png)](https://github.com/Rguilher/backend/tree/develop)
+<a href="https://github.com/Rguilher/backend/tree/develop" target="_blank">
+    <img src="https://github.com/Rguilher/Rguilher/blob/main/42_badges/resful-api-springboot-java-final2.png" alt="" style="width: 140px; height: 140px;">
+</a>
 
