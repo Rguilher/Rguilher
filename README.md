@@ -3,7 +3,7 @@ I'm Renan, I am currently pursuing a degree in Computer Science, currently in my
 
 I'm currently working on my Rest API [backend](https://github.com/Rguilher/backend/tree/develop).
 
-**Contact:** [LinkedIn](https://www.linkedin.com/in/renan-henrique-677399291) | renan.henri90@icloud.com
+**Contact:** <a href="https://www.linkedin.com/in/renan-henrique-677399291" target="_blank">LinkedIn</a> • ✉️ renan.henri90@icloud.com
 ## My languages
 <div style="display: inline_block">
   <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
