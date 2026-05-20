@@ -1,5 +1,5 @@
 ## Who am I?
-I'm Renan, I am currently pursuing a degree in Computer Science, currently in my sixth semester from Centro Universitário União das Américas Descomplica, and I attended [42 São Paulo](https://www.42sp.org.br/). I'm passionate about programming and finding efficient solutions. I am inspired by projects that serve as the basis for others, such as operating systems or web development.
+I'm Henrique, I am currently pursuing a degree in Computer Science, currently in my sixth semester from Centro Universitário União das Américas Descomplica, and I attended [42 São Paulo](https://www.42sp.org.br/). I'm passionate about programming and finding efficient solutions. I am inspired by projects that serve as the basis for others, such as operating systems or web development.
 
 I'm currently working on my Rest API [backend](https://github.com/Rguilher/backend/tree/develop).
 
