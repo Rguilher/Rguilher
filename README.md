@@ -24,7 +24,12 @@ I'm currently working on my Rest API [backend](https://github.com/Rguilher/backe
 - Memory management
 - Data structures
 
-# My projects
+# My projects:
+
+## Java
+<a href="https://github.com/Rguilher/backend/tree/develop" target="_blank">
+    <img src="https://github.com/Rguilher/Rguilher/blob/main/42_badges/resful-api-springboot-java-final2.png" alt="" style="width: 140px; height: 140px;">
+</a>
 
 ## C
 
@@ -34,8 +39,5 @@ I'm currently working on my Rest API [backend](https://github.com/Rguilher/backe
   [![Minishell](https://github.com/Rguilher/Rguilher/blob/main/42_badges/minishelle.png)](https://github.com/Rguilher/Minishell)
 
 
-## Java
-<a href="https://github.com/Rguilher/backend/tree/develop" target="_blank">
-    <img src="https://github.com/Rguilher/Rguilher/blob/main/42_badges/resful-api-springboot-java-final2.png" alt="" style="width: 140px; height: 140px;">
-</a>
+
 
